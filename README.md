@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashux29&label=Profile%20views&color=0e75b6&style=flat" alt="aashux29" /> </p>
 
-- 🔭 I’m currently working on **Web devlopment**
+- 🔭 I’m currently working on **Fullstack Web devlopment**
 
 - 📫 How to reach me **patleaashu124@gmail.com**
 
